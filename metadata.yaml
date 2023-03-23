@@ -1,0 +1,28 @@
+_repo: Mrs-Gurney-s-apology-b-In-justification-of-Mrs-s-friendship_70275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gurney, Mary Jary
+    alias: Taylor, Mary Jary Gurney
+    birthdate: 1829
+    deathdate: 1872
+    gutenberg_agent_id: '55644'
+    url: http://www.gutenberg.org/2009/agents/55644
+description: ''
+gutenberg_issued: '2023-03-12'
+identifiers:
+  gutenberg: '70275'
+language: en
+pgterms:marc905: 20221225115329gurney
+pgterms:marc906: '1860'
+pgterms:marc907: US
+production_note: Bob Taylor, and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bWilliam Brotherhead, $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mrs. Gurney''s apology : $b In justification of Mrs. ——''s friendship'
+url: http://www.gutenberg.org/ebooks/70275
