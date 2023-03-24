@@ -1,5 +1,8 @@
 _repo: Mrs-Gurney-s-apology-b-In-justification-of-Mrs-s-friendship_70275
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70275-h/images/cover.jpg
 creator:
   author:
     agent_name: Gurney, Mary Jary
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55644'
     url: http://www.gutenberg.org/2009/agents/55644
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70275#Mrs-Gurney-s-apology-b-In-justification-of-Mrs-s-friendship
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70275'
